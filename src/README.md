@@ -1,0 +1,1 @@
+Tento projekt byl vytvořen pomocí "Anaconda3". Knihovny potřebné pro tento projekt jsou popsány v "requirements.txt".
